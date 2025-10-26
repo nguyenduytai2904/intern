@@ -1,20 +1,11 @@
-# Roadmap intern backend laravel (3 months | 3d/week)
-
-## Include 4 phares
-
-- Phare 1: Get similar & basic (1-4 weeks)
-- Phare 2: Eloquent & CRUD (5-8 weeks)
-- Phare 3: API, AJAX, Project (9-12 weeks)
-
-## Advice sefl-study
-* Each lesson
-    * 30% document
-    * 70% coding
-* Commit git after each lesson
-* End of week submit link repo to preview
+# Week 1: farmiliar and basic PHP
+## Goal: undertand web development & php basic
+- Introduce: Client-Server, MVC, Laravel Framework
+- Install PHP, Composer, Laravel, Vscode, Git, Mysql
+- Php basic: variable, function, loop, array, class, inheritance
+- Working with composer & artisan CLI
+## Exercise
+- Print "Hello Laravel" by route
+- Create route /hello/{name} to display name
 
 
-## Roadmap Goal
-* Master laravel basic CRUD-API-AUTH
-* Can join in projects within the company
-* Have a project completely in portfolio
