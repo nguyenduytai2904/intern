@@ -18,3 +18,6 @@
 * Master laravel basic CRUD-API-AUTH
 * Can join in projects within the company
 * Have a project completely in portfolio
+
+## Note 
+- Each week has its own branch
