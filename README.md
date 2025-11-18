@@ -1,20 +1,12 @@
-# Roadmap intern backend laravel (3 months | 3d/week)
+# Week 2: Structure project & Route - Controller - View
 
-## Include 4 phares
+## Goal: Understand flow request->controller->view.
 
-- Phare 1: Get similar & basic (1-4 weeks)
-- Phare 2: Eloquent & CRUD (5-8 weeks)
-- Phare 3: API, AJAX, Project (9-12 weeks)
-
-## Advice sefl-study
-* Each lesson
-    * 30% document
-    * 70% coding
-* Commit git after each lesson
-* End of week submit link repo to preview
+- Structure folder laravel (routes, controller, model, view).
+- Basic route and route with parameter
+- Controller (return view, data)
+- Basic blade template (@yield, @include, @foreach, @if)
 
 
-## Roadmap Goal
-* Master laravel basic CRUD-API-AUTH
-* Can join in projects within the company
-* Have a project completely in portfolio
+## Exercise
+* Create a Blog project display static list blog (array in controller)
