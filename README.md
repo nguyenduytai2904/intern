@@ -1,12 +1,12 @@
-# Week 2: Structure project & Route - Controller - View
+# Week 2: Blade advance & Layout
 
-## Goal: Understand flow request->controller->view.
+## Goal: Can create dynamic view & reuse layout
 
-- Structure folder laravel (routes, controller, model, view).
-- Basic route and route with parameter
-- Controller (return view, data)
-- Basic blade template (@yield, @include, @foreach, @if)
+- Layout master + section
+- Pass variable to view
+- Include header/footer
+- Display data from array or json
 
 
 ## Exercise
-* Create a Blog project display static list blog (array in controller)
+* Create layout master (layouts/app.blade.php) display list blog prettier
