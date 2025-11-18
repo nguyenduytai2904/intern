@@ -1,23 +1,14 @@
-# Roadmap intern backend laravel (3 months | 3d/week)
+# Database & Migration
 
-## Include 4 phares
+## Understand how to work with database
 
-- Phare 1: Get similar & basic (1-4 weeks)
-- Phare 2: Eloquent & CRUD (5-8 weeks)
-- Phare 3: API, AJAX, Project (9-12 weeks)
+- Config database (.env)
+- Migration: create table, add/remove column
+- Seeder, Factory to create sample data
+- Model and connect table
 
-## Advice sefl-study
-* Each lesson
-    * 30% document
-    * 70% coding
-* Commit git after each lesson
-* End of week submit link repo to preview
+## Exercise
+- Creeate table students (name, email, phone)
+- display students from DB
 
 
-## Roadmap Goal
-* Master laravel basic CRUD-API-AUTH
-* Can join in projects within the company
-* Have a project completely in portfolio
-
-## Note 
-- Each week has its own branch
