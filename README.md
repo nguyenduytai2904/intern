@@ -1,14 +1,13 @@
-# Database & Migration
+# Eloquent ORM
 
-## Understand how to work with database
+## Goal: Can interact data with Eloquent
 
-- Config database (.env)
-- Migration: create table, add/remove column
-- Seeder, Factory to create sample data
-- Model and connect table
+- Basic model(add, remove, update)
+- Query builder vs Eloquent
+- Pagination
+- Validation (request)
 
 ## Exercise
-- Creeate table students (name, email, phone)
-- display students from DB
+- Complete CRUD students
 
 
